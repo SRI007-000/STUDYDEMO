@@ -1,5 +1,4 @@
 # STUDYDEMO
 This is my first repository
 <br>
-
-Author = Sritam Das
+Author = Sritam Das (ITER)
